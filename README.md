@@ -4,7 +4,7 @@
 
 <br />
 
-> 原创导航：[10](https://github.com/HiWayne/share-technology/blob/main/README.md#10-%E5%8E%9F%E5%88%9B%E4%BB%8E%E4%B8%80%E6%AC%A1%E5%89%8D%E7%AB%AF%E5%85%AC%E5%85%B1%E5%BA%93%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%AD%E6%B7%B1%E5%85%A5%E8%B0%88%E8%B0%88tree-shaking%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98)
+> 原创导航：[10](#10-%E5%8E%9F%E5%88%9B%E4%BB%8E%E4%B8%80%E6%AC%A1%E5%89%8D%E7%AB%AF%E5%85%AC%E5%85%B1%E5%BA%93%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%AD%E6%B7%B1%E5%85%A5%E8%B0%88%E8%B0%88tree-shaking%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98)
 
 ## 1. 来看看CSS Functions好不好恰 🍽
 - ### 文章链接
