@@ -103,6 +103,23 @@
 
 ## 10. 【原创】从一次前端公共库的搭建中，深入谈谈tree shaking的相关问题
 - ### 文章链接
-> https://zhuanlan.zhihu.com/p/438065895
+> [知乎](https://zhuanlan.zhihu.com/p/438065895)
+
+> [掘金](https://juejin.cn/post/7034739926016983071)
+
+> [segmentfault](https://segmentfault.com/a/1190000041022779)
 - ### 类别
 > `前端工程化`、`tree shaking`、`rollup`
+
+<br />
+
+## 11. SWR：最具潜力的 React Hooks 数据请求库
+- ### 文章链接
+> [SWR：最具潜力的 React Hooks 数据请求库（主要是一些功能介绍）](https://zhuanlan.zhihu.com/p/89570321)
+
+> [SWR 与前端数据依赖请求（作者：SWR创作团队-ZEIT团队成员）](https://zhuanlan.zhihu.com/p/90660704)
+- ### 类别
+> `react`、`hooks`、`fetch`
+- ### 推荐指数：⭐️⭐️⭐️
+- ### 收获 & 感悟（可选）
+> 它的特性可以看文档或者第一篇文章。主要讲一下初步使用后个人的感觉：基于状态驱动的请求在调度方面粒度太大，如果想在某些状态下不调度就需要额外在fetcher中写一些逻辑。在对数据新鲜度要求高和可能存在重复请求的场景还是挺舒适的。能不能流行有待市场检验。
