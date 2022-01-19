@@ -117,7 +117,9 @@
 - ### 文章链接
 
   > [知乎](https://zhuanlan.zhihu.com/p/438065895)
+
   > [掘金](https://juejin.cn/post/7034739926016983071)
+
   > [segmentfault](https://segmentfault.com/a/1190000041022779)
 
 - ### 类别
@@ -158,8 +160,7 @@
 
 - ### 文章链接
 
-  > [苹果 M1 为什么比英特尔 x86 快了那么多](http://finance.sina.com.cn/tech/csj/2020-12-02/doc-iiznctke4367373.shtml)
-  > [英文原文](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
+  > [苹果 M1 为什么比英特尔 x86 快了那么多](http://finance.sina.com.cn/tech/csj/2020-12-02/doc-iiznctke4367373.shtml) > [英文原文](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2)
 
 - ### 类别
   > `cpu`、`硬件架构`
