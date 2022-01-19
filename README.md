@@ -4,7 +4,7 @@
 
 <br />
 
-> 原创导航：[跳转 10](#10-%E5%8E%9F%E5%88%9B%E4%BB%8E%E4%B8%80%E6%AC%A1%E5%89%8D%E7%AB%AF%E5%85%AC%E5%85%B1%E5%BA%93%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%AD%E6%B7%B1%E5%85%A5%E8%B0%88%E8%B0%88tree-shaking%E7%9A%84%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98)
+> 原创导航：[文章 10](#10-原创从一次前端公共库的搭建中深入谈谈-tree-shaking-的相关问题)
 
 ## 1. 来看看 CSS Functions 好不好恰 🍽
 
