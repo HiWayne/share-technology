@@ -117,11 +117,11 @@
 
 - ### 文章链接
 
-  > [知乎](https://zhuanlan.zhihu.com/p/438065895)
+  > 知乎：https://zhuanlan.zhihu.com/p/438065895
 
-  > [掘金](https://juejin.cn/post/7034739926016983071)
+  > 掘金：https://juejin.cn/post/7034739926016983071
 
-  > [segmentfault](https://segmentfault.com/a/1190000041022779)
+  > segmentfault：https://segmentfault.com/a/1190000041022779
 
 - ### 类别
   > `前端工程化`、`tree shaking`、`rollup`
@@ -170,3 +170,25 @@
 - ### 推荐指数：⭐️⭐️
 - ### 收获 & 感悟（可选）
   > 对 cpu 等硬件感兴趣的可以看看，比较浅显，计算机硬件不太懂的人也适合看。
+
+<br />
+
+## 14. 【原创】gif 和滤镜会碰撞出怎样的火花？写了一个可以混合 gif 和滤镜的库
+
+- ### 文章链接
+
+  > 知乎： https://zhuanlan.zhihu.com/p/459502707
+
+  > 掘金：https://juejin.cn/post/7054844668088942623
+
+  > segmentfault：https://segmentfault.com/a/1190000041310365
+
+  > github: https://github.com/HiWayne/colorful_gif
+
+- ### 类别
+  > `js`、`gif`、`滤镜`、`npm-package`
+- ### 简介
+  > 这是一个可以把滤镜图片混合进 gif 的库，它会返回一个新的 gif dataURL。你可以通过它生成很多好看或有意义的 gif。比如在 Demo 中我就让一个撑伞走路的人，变成了在云中漫步。你也可以实现自己的灵感。比如如果滤镜中的 icon 位置合适的话，就可以做到给 gif 打水印等等……
+- ### 推荐指数：喜欢的话去 github 和文章里给个赞吧！
+- ### 收获 & 感悟（可选）
+  > 在搭建公司某个 monorepo npm 项目的过程中收获了一些工程化知识，所以多入口 build、deploy 和 npm publish 这个库的过程很快，几乎没遇到什么坑，算是一种进步吧。
