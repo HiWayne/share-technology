@@ -92,7 +92,7 @@
 推荐指数：⭐️⭐️⭐️⭐️
 <br />
 
-#### 17. 【原创】[数万字长文！最新 react-redux8 源码超详细深入解析：再读 react-redux 源码](https://www.github.com/HiWayne/share-technology/blob/main/original/17.再读react-redux源码.md)
+#### 17. 【原创】[数万字长文！2022 最新 react-redux8 源码超详细深入解析：再读 react-redux 源码](https://www.github.com/HiWayne/share-technology/blob/main/original/17.再读react-redux源码.md)
 
 类别：`react-redux`、`源码`、`React18`
 <br />
