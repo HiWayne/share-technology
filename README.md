@@ -4,7 +4,7 @@
 
 `🖌 一个明智地追求快乐的人，除了培养生活赖以支撑的主要兴趣之外，总得设法培养其他许多闲情逸致。—— 罗素`
 
-原创文章导航：[10](#10-【原创】从一次前端公共库的搭建中，深入谈谈-tree-shaking-的相关问题)、[14](14-【原创】gif-和滤镜会碰撞出怎样的火花？写了一个可以混合-gif-和滤镜的库：colorful_gif)、[17](17-【原创】数万字长文！最新-react-redux8-源码超详细深入解析：再读-react-redux-源码)
+最新文章：[17. 解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)
 <br />
 
 #### 1. [来看看 CSS Functions 好不好恰 🍽](https://www.github.com/HiWayne/share-technology/blob/main/docs/1.来看看_CSS_Functions_好不好恰_🍽.md)
@@ -95,4 +95,9 @@
 #### 17. 【原创】[一文吃透react-redux，2022 最新 react-redux8 源码超详细深入解析：再读 react-redux 源码](https://www.github.com/HiWayne/share-technology/blob/main/original/17.再读react-redux源码.md)
 
 类别：`react-redux`、`源码`、`React18`
+<br />
+
+#### 17. 【原创】[解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)
+
+类别：`react`、`hooks`、`react rfc`
 <br />
