@@ -8,7 +8,7 @@
 
 最新文章：[18. 【原创】解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)
 
-内容涵盖但不限于：
+内容涵盖：
 - 大厂技术分享
 - 知名官方 or 业内大牛的技术发布与博客
 - 知名开源库源码解读
