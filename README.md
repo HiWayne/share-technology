@@ -6,14 +6,14 @@
 
 <br />
 
-最新文章：[18. 【原创】解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)
+最新文章：[19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)
 
-内容涵盖：
-- 大厂技术分享
-- 知名官方 or 业内大牛的技术发布与博客
-- 知名开源库源码解读
-- 前端优秀技术文章分享
-- 个人原创技术文章
+内容已涵盖：
+- 各大厂的技术分享与个人解读
+- 对知名官方的技术发布 & 业内大牛的博客文章的分享与解读
+- 前端社区的优秀技术文章分享与解读
+- 本人对知名开源库源码的剖析
+- 本人原创技术文章
 
 ## 所有文章
 
