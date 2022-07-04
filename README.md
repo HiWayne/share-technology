@@ -52,3 +52,5 @@
 - 【原创】[17. 一文吃透react-redux源码，react-redux8 深入解析：再读 react-redux 源码](https://www.github.com/HiWayne/share-technology/blob/main/original/17.再读react-redux源码.md)&nbsp;&nbsp;`react-redux`、`源码`、`React18`
 
 - 【原创】[18. 解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)&nbsp;&nbsp;&nbsp;&nbsp;`react`、`hooks`、`react rfc`
+
+- [19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)&nbsp;&nbsp;&nbsp;&nbsp;`typescript`、`type-challenges`
