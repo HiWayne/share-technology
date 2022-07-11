@@ -6,14 +6,14 @@
 
 <br />
 
-最新文章：[19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)
+最新文章：[20. 【原创】从一个 bug 中学习 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)
 
 内容已涵盖：
 - 大厂的技术分享与个人解读
 - 对知名官方的技术发布 & 业内大牛的博客文章的分享与解读
 - 前端社区的优秀技术文章分享与解读
-- 本人对知名开源库源码的剖析
-- 本人原创技术文章
+- 个人对知名开源库源码的解析
+- 个人原创技术文章
 
 ## 所有文章
 
@@ -54,3 +54,5 @@
 - 【原创】[18. 解读 React useEvent RFC](https://www.github.com/HiWayne/share-technology/blob/main/original/18.React新RFC-useEvent.md)&nbsp;&nbsp;&nbsp;&nbsp;`react`、`hooks`、`react rfc`
 
 - [19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)&nbsp;&nbsp;&nbsp;&nbsp;`typescript`、`type-challenges`
+
+- 【原创】[20. 从一个 bug 中学习 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)&nbsp;&nbsp;`canvas`、`浏览器渲染原理`
