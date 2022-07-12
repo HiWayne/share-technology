@@ -55,4 +55,4 @@
 
 - [19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)&nbsp;&nbsp;&nbsp;&nbsp;`typescript`、`type-challenges`
 
-- 【原创】[20. 从一个 bug 中学习 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)&nbsp;&nbsp;`canvas`、`浏览器渲染原理`
+- 【原创】[20. 从一个 bug 中延伸出 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)&nbsp;&nbsp;`canvas`、`浏览器渲染原理`
