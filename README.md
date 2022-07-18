@@ -35,7 +35,7 @@
 
 - [9. Web 移动端适配方案](https://www.github.com/HiWayne/share-technology/blob/main/docs/9.Web移动端适配方案.md)&nbsp;&nbsp;&nbsp;&nbsp;`移动端像素适配`
 
-- 【原创】[10. 从一次前端公共库的搭建中，深入谈谈 tree shaking 的相关问题](https://www.github.com/HiWayne/share-technology/blob/main/original/10.深入tree-shaking.md)&nbsp;&nbsp;`前端工程化`、`tree shaking`、`rollup`
+- [10. 【原创】从一次前端公共库的搭建中，深入谈谈 tree shaking 的相关问题](https://www.github.com/HiWayne/share-technology/blob/main/original/10.深入tree-shaking.md)&nbsp;&nbsp;`前端工程化`、`tree shaking`、`rollup`
 
 - [11. SWR：最具潜力的 React Hooks 数据请求库](https://www.github.com/HiWayne/share-technology/blob/main/docs/11.SWR：最具潜力的React_Hooks数据请求库.md)&nbsp;&nbsp;`swr`、`react`、`hooks`
 
