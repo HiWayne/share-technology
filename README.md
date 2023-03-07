@@ -6,7 +6,7 @@
 
 <br />
 
-最新文章：[20. 【原创】从一个 bug 中学习 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)
+最新文章：[21. 【原创】体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.体系化的前端性能优化详解.md)
 
 内容已涵盖：
 - 大厂的技术分享与个人解读
@@ -56,3 +56,5 @@
 - [19. 解读 ts类型挑战题目 type-challenges](https://www.github.com/HiWayne/share-technology/blob/main/docs/19.解读type-challenges.md)&nbsp;&nbsp;&nbsp;&nbsp;`typescript`、`type-challenges`
 
 - [20. 【原创】从一个 bug 中延伸出 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)&nbsp;&nbsp;`canvas`、`浏览器渲染原理`
+
+- [21. 【原创】体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.体系化的前端性能优化详解.md)&nbsp;&nbsp;`前端知识体系汇总`、`计算机网络`、`性能优化`
