@@ -6,7 +6,7 @@
 
 <br />
 
-最新文章：[21. 【原创】体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.体系化的前端性能优化详解.md)
+最新文章：[21. 【原创】最体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.最体系化的前端性能优化详解.md)
 
 内容已涵盖：
 - 大厂的技术分享与个人解读
@@ -57,4 +57,4 @@
 
 - [20. 【原创】从一个 bug 中延伸出 canvas 最大内存限制和浏览器渲染原理](https://www.github.com/HiWayne/share-technology/blob/main/original/20.从一个bug中学习canvas最大内存限制和浏览器渲染原理.md)&nbsp;&nbsp;`canvas`、`浏览器渲染原理`
 
-- [21. 【原创】体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.体系化的前端性能优化详解.md)&nbsp;&nbsp;`前端知识体系汇总`、`计算机网络`、`性能优化`
+- [21. 【原创】最体系化的前端性能优化详解](https://www.github.com/HiWayne/share-technology/blob/main/original/21.最体系化的前端性能优化详解.md)&nbsp;&nbsp;`前端知识体系汇总`、`计算机网络`、`性能优化`
